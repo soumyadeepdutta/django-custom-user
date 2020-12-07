@@ -1,10 +1,10 @@
 # Django Custom User Model
 
-# [HELP]
+## [HELP]
 
 I need someone to add custom group and permission to this User model
 
-** Done
+* Done
 
 1. Email Login
 2. Scalable
